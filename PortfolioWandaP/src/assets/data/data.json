@@ -1,0 +1,15 @@
+{
+    "nombre":"Podbersic Wanda",
+    "posicion": "Estudiante Ingenieria Biomedica",
+    "ubicacion": "Córdoba Argentina",
+    "edad":"35",
+    "nacimiento": "26 de septiembre 1987",
+    
+
+    "escuela":{
+        "nombre":"Facultad de ciencias exactas físicas y naturales",
+        "carrera":"Ingenería Biomédica"
+    }
+    
+
+}
